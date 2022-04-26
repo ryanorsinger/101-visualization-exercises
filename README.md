@@ -15,3 +15,12 @@
         2. plot a scatterplot of x vs. y with a color for each category A.
         3. plot a scatterplot of x vs. y with a color for each category A with 4 subplots for each value of category B
 - CSV or API data sources to help the language agnostic approach
+
+
+
+## Datasets
+- `fastfood_calories.csv` is from https://github.com/rfordatascience/tidytuesday/tree/master/data/2018/2018-09-04
+- `global_life_expectancy.csv` is from https://github.com/rfordatascience/tidytuesday/blob/master/data/2018/2018-07-03/week14_global_life_expectancy.csv
+- `movie_profit.csv` is from https://github.com/rfordatascience/tidytuesday/tree/master/data/2018/2018-10-23
+- `attrition.csv` is from https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+- `mpg.csv` is from https://vincentarelbundock.github.io/Rdatasets/articles/data.html
