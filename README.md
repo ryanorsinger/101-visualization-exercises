@@ -24,3 +24,4 @@
 - `movie_profit.csv` is from https://github.com/rfordatascience/tidytuesday/tree/master/data/2018/2018-10-23
 - `attrition.csv` is from https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 - `mpg.csv` is from https://vincentarelbundock.github.io/Rdatasets/articles/data.html
+- `grades_by_class.csv` from randomly generated data
