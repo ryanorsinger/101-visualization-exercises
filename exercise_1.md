@@ -8,5 +8,6 @@
 - Label the x axis to be "highway gas mileages"
 - Label the y axis "frequency"
 
-
+## Expected Output
+Depending on your plotting library/platform, your output should look similar to the image below.
 ![histogram of gas mileages](exercise1.png)
